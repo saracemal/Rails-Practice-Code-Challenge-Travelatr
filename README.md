@@ -26,6 +26,9 @@ Blogger:
 	- A link to that blogger's featured post (the post with the most likes)
 	- **BONUS** A list of that user's top 5 most written about destinations (the destinations with the most posts)
 
+	- new/index/show
+	- "sort_by"
+
 Destination:
 
 1. Users should be able to see a destination profile page. On this page, a user should see:
